@@ -1,0 +1,8 @@
+Code/Models/
+Code/__pycache__/
+Code/MFCC/
+Code/Results/
+Code/Test_Models/
+*.npy
+requirement.txt
+Fig/
